@@ -1,0 +1,614 @@
+{
+  "background": {
+    "background-01": {
+      "name": "",
+      "rarity": ""
+    },
+    "background-02": {
+      "name": "",
+      "rarity": ""
+    },
+    "background-03": {
+      "name": "",
+      "rarity": ""
+    },
+    "background-04": {
+      "name": "",
+      "rarity": ""
+    },
+    "background-05": {
+      "name": "",
+      "rarity": ""
+    },
+    "background-06": {
+      "name": "",
+      "rarity": ""
+    },
+    "background-07": {
+      "name": "",
+      "rarity": ""
+    },
+    "background-08": {
+      "name": "",
+      "rarity": ""
+    },
+    "background-09": {
+      "name": "",
+      "rarity": ""
+    },
+    "background-10": {
+      "name": "",
+      "rarity": ""
+    }
+  },
+  "base": {
+    "base-01": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-02": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-03": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-04": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-05": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-06": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-08": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-09": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-10": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-11": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-12": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-13": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-14": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-15": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-16": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-17": {
+      "name": "",
+      "rarity": ""
+    },
+    "base-18": {
+      "name": "",
+      "rarity": ""
+    }
+  },
+  "eyes": {
+    "eyes-01": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-02": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-03": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-04": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-05": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-06": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-07": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-08": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-09": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-10": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-11": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-12": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-13": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-14": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-15": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-16": {
+      "name": "",
+      "rarity": ""
+    },
+    "eyes-17": {
+      "name": "",
+      "rarity": ""
+    }
+  },
+  "head": {
+    "head-01": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-02": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-03": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-04": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-05": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-06": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-07": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-08": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-09": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-10": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-11": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-12": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-13": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-14": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-15": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-16": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-17": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-18": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-19": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-20": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-21": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-22": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-23": {
+      "name": "",
+      "rarity": ""
+    },
+    "head-24": {
+      "name": "",
+      "rarity": ""
+    }
+  },
+  "neck": {
+    "neck-01": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-02": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-03": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-04": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-05": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-06": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-07": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-08": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-09": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-10": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-11": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-12": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-13": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-14": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-15": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-16": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-17": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-18": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-19": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-21": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-22": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-23": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-24": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-25": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-26": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-27": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-28": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-29": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-30": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-31": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-32": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-33": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-34": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-35": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-36": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-37": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-38": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-39": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-40": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-41": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-42": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-43": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-44": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-45": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-46": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-47": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-48": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-49": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-50": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-51": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-52": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-53": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-54": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-55": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-56": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-57": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-58": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-59": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-60": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-61": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-62": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-63": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-64": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-65": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-66": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-67": {
+      "name": "",
+      "rarity": ""
+    },
+    "neck-68": {
+      "name": "",
+      "rarity": ""
+    }
+  },
+  "ear": {
+    "ear-01": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-02": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-03": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-04": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-05": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-06": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-07": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-08": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-09": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-10": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-11": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-12": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-13": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-14": {
+      "name": "",
+      "rarity": ""
+    },
+    "ear-15": {
+      "name": "",
+      "rarity": ""
+    }
+  }
+}
